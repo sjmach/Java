@@ -1,7 +1,7 @@
 ISINValidation
 =============================================================
 A Java program that validates ISIN values present in an Excel sheet.
-The program makes use of Apache Commons Validator (http://commons.apache.org/proper/commons-validator/) to validate ISIN values.
+The program makes use of Apache Commons Validator (http://commons.apache.org/proper/commons-validator/) to validate ISIN values and Apache POI library to work with Excel sheets.
 
 To know more about ISIN, visit : http://en.wikipedia.org/wiki/International_Securities_Identification_Number
  
