@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7734" started-at="2014-12-15T13:59:57Z" finished-at="2014-12-15T14:00:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7734" started-at="2014-12-15T13:59:57Z" finished-at="2014-12-15T14:00:05Z">
+      <class name="com.machadosundeep.GoogleSearch">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="5775" started-at="2014-12-15T13:59:57Z" finished-at="2014-12-15T14:00:03Z">
+        </test-method>
+        <test-method status="PASS" signature="googleSearchTest()" name="googleSearchTest" duration-ms="1916" started-at="2014-12-15T14:00:03Z" finished-at="2014-12-15T14:00:05Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="15" started-at="2014-12-15T14:00:05Z" finished-at="2014-12-15T14:00:05Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="heater" name="com.machadosundeep.GoogleSearch" tests="1" failures="0" timestamp="15 Dec 2014 08:30:05 GMT" time="7.734" errors="0">
+  <testcase name="googleSearchTest" time="1.916" classname="com.machadosundeep.GoogleSearch"/>
+</testsuite>
