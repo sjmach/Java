@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
  <classes>
-      <class name="blog.sundeepmachado.GoogleSearch">
+      <class name="com.sundeepmachado.GoogleSearch">
       </class>
     </classes> 
   </test> <!-- Test -->
