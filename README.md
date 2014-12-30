@@ -19,6 +19,12 @@ Get the source.
     git clone git://github.com/sjmach/java.git
 
 
-All works my content on Github are governed by Apache License : http://www.apache.org/licenses/LICENSE-2.0
+All works and  my content on Github are governed by Apache License : http://www.apache.org/licenses/LICENSE-2.0
 
-The works have are not affiliated/part of any commercial establishment including my past, current or possible future employers 
+The codebase/projects and content are not affiliated/part of any commercial establishment including my past, current or possible future employers.
+
+While working with these projects, make sure that you have read the disclaimer as mentioned here:
+
+http://www.sundeepmachado.com/p/disclaimer.html
+
+
