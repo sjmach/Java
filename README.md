@@ -17,3 +17,8 @@ Get Started
 Get the source.
 
     git clone git://github.com/sjmach/java.git
+
+
+All works my content on Github are governed by Apache License : http://www.apache.org/licenses/LICENSE-2.0
+
+The works have are not affiliated/part of any commercial establishment including my past, current or possible future employers 
