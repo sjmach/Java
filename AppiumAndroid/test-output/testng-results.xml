@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17325" started-at="2015-03-29T09:53:45Z" finished-at="2015-03-29T09:54:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17325" started-at="2015-03-29T09:53:45Z" finished-at="2015-03-29T09:54:03Z">
+      <class name="com.sundeepmachado.WhatsApp">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sundeepmachado.WhatsApp@500e6f7a]" name="setUp" is-config="true" duration-ms="13516" started-at="2015-03-29T15:23:45Z" finished-at="2015-03-29T15:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="whatsAppinstall()[pri:0, instance:com.sundeepmachado.WhatsApp@500e6f7a]" name="whatsAppinstall" duration-ms="2680" started-at="2015-03-29T15:23:59Z" finished-at="2015-03-29T15:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsAppinstall -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sundeepmachado.WhatsApp@500e6f7a]" name="tearDown" is-config="true" duration-ms="1107" started-at="2015-03-29T15:24:01Z" finished-at="2015-03-29T15:24:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sundeepmachado.WhatsApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

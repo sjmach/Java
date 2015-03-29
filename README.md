@@ -6,6 +6,8 @@ All code can be imported into Eclipse IDE.
 
 Folders
 -------------------------------------------------------------
+AppiumAndroid - A sample project that shows how to automate mobile apps using Appium. e.g. WhatsApp new installation wizard
+
 SortedLinkedList - Java implementation of custom LinkedList which is always sorted.
 
 ISINValidation	 - A Java program that validates ISIN values present in an Excel sheet
